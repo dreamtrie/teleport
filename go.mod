@@ -40,9 +40,7 @@ require (
 	github.com/gravitational/configure v0.0.0-20180808141939-c3428bd84c23
 	github.com/gravitational/form v0.0.0-20151109031454-c4048f792f70
 	github.com/gravitational/kingpin v2.1.11-0.20190130013101-742f2714c145+incompatible
-	github.com/gravitational/license v0.0.0-20210218173955-6d8fb49b117a
 	github.com/gravitational/oxy v0.0.0-20210316180922-c73d80d27348
-	github.com/gravitational/reporting v0.0.0-20180907002058-ac7b85c75c4c
 	github.com/gravitational/roundtrip v1.0.0
 	github.com/gravitational/teleport/api v0.0.0
 	github.com/gravitational/trace v1.1.14
@@ -78,7 +76,7 @@ require (
 	github.com/prometheus/common v0.17.0
 	github.com/rivo/uniseg v0.2.0 // indirect
 	github.com/russellhaering/gosaml2 v0.6.0
-	github.com/russellhaering/goxmldsig v1.1.0
+	github.com/russellhaering/goxmldsig v1.1.1
 	github.com/sergi/go-diff v1.1.0 // indirect
 	github.com/shabbyrobe/gocovmerge v0.0.0-20190829150210-3e036491d500 // indirect
 	github.com/siddontang/go-mysql v1.1.0
@@ -112,7 +110,6 @@ require (
 	gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22 // indirect
 	gopkg.in/square/go-jose.v2 v2.5.1
 	gopkg.in/yaml.v2 v2.4.0
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
 	honnef.co/go/tools v0.0.1-2020.1.5 // indirect
 	k8s.io/api v0.0.0-20200821051526-051d027c14e1
 	k8s.io/apimachinery v0.20.4

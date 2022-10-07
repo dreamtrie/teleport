@@ -254,21 +254,12 @@ github.com/gravitational/form
 # github.com/gravitational/kingpin v2.1.11-0.20190130013101-742f2714c145+incompatible
 ## explicit
 github.com/gravitational/kingpin
-# github.com/gravitational/license v0.0.0-20210218173955-6d8fb49b117a
-## explicit
-github.com/gravitational/license
-github.com/gravitational/license/constants
 # github.com/gravitational/oxy v0.0.0-20210316180922-c73d80d27348
 ## explicit
 github.com/gravitational/oxy/connlimit
 github.com/gravitational/oxy/forward
 github.com/gravitational/oxy/ratelimit
 github.com/gravitational/oxy/utils
-# github.com/gravitational/reporting v0.0.0-20180907002058-ac7b85c75c4c
-## explicit
-github.com/gravitational/reporting
-github.com/gravitational/reporting/client
-github.com/gravitational/reporting/types
 # github.com/gravitational/roundtrip v1.0.0
 ## explicit
 github.com/gravitational/roundtrip
@@ -340,7 +331,7 @@ github.com/julienschmidt/httprouter
 # github.com/kardianos/osext v0.0.0-20190222173326-2bc1f35cddc0
 ## explicit
 github.com/kardianos/osext
-# github.com/kr/pretty v0.2.1
+# github.com/kr/pretty v0.3.0
 github.com/kr/pretty
 # github.com/kr/pty v1.1.8
 ## explicit
@@ -430,12 +421,14 @@ github.com/prometheus/procfs/internal/util
 # github.com/rivo/uniseg v0.2.0
 ## explicit
 github.com/rivo/uniseg
+# github.com/rogpeppe/go-internal v1.8.0
+github.com/rogpeppe/go-internal/fmtsort
 # github.com/russellhaering/gosaml2 v0.6.0
 ## explicit
 github.com/russellhaering/gosaml2
 github.com/russellhaering/gosaml2/types
 github.com/russellhaering/gosaml2/uuid
-# github.com/russellhaering/goxmldsig v1.1.0
+# github.com/russellhaering/goxmldsig v1.1.1
 ## explicit
 github.com/russellhaering/goxmldsig
 github.com/russellhaering/goxmldsig/etreeutils
@@ -817,7 +810,6 @@ gopkg.in/square/go-jose.v2/jwt
 ## explicit
 gopkg.in/yaml.v2
 # gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
-## explicit
 gopkg.in/yaml.v3
 # honnef.co/go/tools v0.0.1-2020.1.5
 ## explicit
